@@ -1,0 +1,11 @@
+body{
+    font: 700 "Times New Roman";
+    font-size: medium;
+    font-style: bold;
+    background: linear-gradient(to right, blue, red);
+    text-align: center;
+}
+
+h1{
+    font-size: 4em;
+}
